@@ -54,5 +54,3 @@ introduce(aboutMe);
 - 💡 Exploring: Embedded development & AI on iOS
 
 ---
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tyl3ra" alt="tyl3ra" /> </p>

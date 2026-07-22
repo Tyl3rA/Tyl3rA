@@ -1,10 +1,10 @@
 ## Hi there! 👋
  
-I'm Tyler — a passionate developer who enjoys learning new skills and building cool things. 🚀
+I'm Tyler — a passionate developer who enjoys learning new skills and building cool things.
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 ```js
 const aboutMe = {
   name: "Tyler Anderson",
@@ -29,7 +29,7 @@ introduce(aboutMe);
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=apple,html,css,sass,js,py,c,swift,vscode,figma,github"/>
@@ -37,20 +37,9 @@ introduce(aboutMe);
 
 ---
 
-### 📈 GitHub Stats
+### Currently
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tyl3rA&layout=compact&theme=tokyonight"/>
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Tyl3rA&rank_icon=github&show_icons=true&theme=tokyonight"/>
-</p>
-
----
-
-### 🌱 Currently
-
-- 🔥 Learning: C for Flipper Zero
-- 💡 Exploring: Embedded development & AI on iOS
+- Learning: C for Flipper Zero
+- Exploring: Embedded development & AI on iOS
 
 ---
